@@ -47,6 +47,24 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "mutina",
+      "image": "https://www.google.com/imgres?q=dog&imgurl=https%3A%2F%2Fhips.hearstapps.com%2Fhmg-prod%2Fimages%2Fdog-puppy-on-garden-royalty-free-image-1586966191.jpg%3Fcrop%3D0.752xw%3A1.00xh%3B0.175xw%2C0%26resize%3D1200%3A*&imgrefurl=https%3A%2F%2Fwww.goodhousekeeping.com%2Flife%2Fpets%2Fg4531%2Fcutest-dog-breeds%2F&docid=2r6Arj4-hBjhNM&tbnid=PpmCvrB3OtU3hM&vet=12ahUKEwjti4Sl1e6FAxXzQvEDHXL8BIkQM3oECBgQAA..i&w=1200&h=1197&hcb=2&itg=1&ved=2ahUKEwjti4Sl1e6FAxXzQvEDHXL8BIkQM3oECBgQAA",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "Rick and Morty",
+      "image": "https://www.imdb.com/title/tt2861424/mediaviewer/rm209331968/?ref_=tt_ov_i",
+      "likes": 0,
+      "id": 12
+    },
+    {
+      "name": "Ben 10",
+      "image": "https://en.wikipedia.org/wiki/File:Ben_10_reboot_logo.png",
+      "likes": 0,
+      "id": 13
     }
   ]
 }
